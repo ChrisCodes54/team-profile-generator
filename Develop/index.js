@@ -78,7 +78,7 @@ function appMenu() {
 
       teamMembers.push(manager)
       
-      console.log(teamMembers)
+      
 
       createTeam();
     });
@@ -171,7 +171,6 @@ function appMenu() {
 
       teamMembers.push(engineer)
       
-      console.log(teamMembers)
 
       createTeam();
     });
@@ -239,7 +238,7 @@ function appMenu() {
      
       teamMembers.push(intern)
       
-      console.log(teamMembers)
+      
       createTeam();
     });
   }
